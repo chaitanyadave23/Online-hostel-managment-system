@@ -1,0 +1,122 @@
+#man
+{
+ 
+    text-align: center;
+    background: #F4D03F;
+    height: 100px;
+    width:90%;
+    left: 60px;
+    position:absolute;
+    top:20px;
+    border:#000 3px solid ;
+    border-radius: 8px; 
+}
+
+#a
+{
+    left: 320px;
+    position:absolute;
+    top:300px;
+}
+#b
+{
+     left: 650px;
+    position:absolute;
+   
+    top:300px;
+}
+
+#container
+
+{
+    background:white;
+      border:#000 3px solid ;
+    position:absolute;
+    top:270px;
+    height:100px;
+    width:650px;
+    left:250px;
+    border-radius: 8px; 
+    
+}
+#fac
+{
+      width:100%;
+    padding:10px;
+    background:#27ae60;
+     color: white;
+    font-size:18px;
+    font-weight:bold;
+}
+
+#std
+{
+      width:100%;
+    padding:10px;
+    background:#27ae60;
+     color: white;
+    font-size:18px;
+    font-weight:bold;
+    
+}
+
+#abc
+{
+       width:15%;
+    padding:10px;
+    background:#27ae60;
+     color: white;
+    font-size:12px;
+    font-weight:bold;
+      border-radius: 30px; 
+}
+
+
+#abcd
+{
+       width:100%;
+    padding:10px;
+    background:#27ae60;
+     color: white;
+    font-size:12px;
+    font-weight:bold;
+      border-radius: 15px; 
+}
+
+
+
+#student
+{
+    background: white;
+    font-size: 18px;
+    border-radius:13px;
+      border:#000 3px solid ;
+    padding:20px;
+    width:300px;
+    position:absolute;
+    left:450px;
+    padding-left: 100px;
+    
+    
+    
+    
+}
+#name
+{
+   
+     
+    left: 60px;
+    width:100%px;
+    top:20px;
+    background: #F4D03F;
+    height: 80px;
+    width:90%;
+    left: 60px;
+    
+}
+
+
+#select
+{
+    width:50%;
+}
